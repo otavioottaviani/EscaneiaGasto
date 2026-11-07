@@ -1,5 +1,7 @@
 # 📸 EscaneiaGasto
 
+link do site:  <a>https://otavioottaviani.github.io/EscaneiaGasto/</a>
+
 Site que lê comprovantes automaticamente e calcula seus gastos. Basta enviar a foto do comprovante: a IA identifica o estabelecimento, os itens e os valores, e o site soma o total gasto, sem digitar nada.
 
 ## Como funciona
